@@ -11,9 +11,9 @@ git config --global --list
 1.เปิด git bash
 2.ไปที่เก็บไฟล์ของตัวเอง cd ตามด้วยที่อยู่ไฟล์ เช่น cd C:/xampp/htdocs/vegaminute
 พอเข้าที่เก็บไฟล์ตัวเอง
-3.ให้พิมพ์ add . เพื่อแอดไฟล์งานตัวเอง
+3.ให้พิมพ์ git add . เพื่อแอดไฟล์งานตัวเอง
 4.แล้วพิมพ์ git commit -m "ใส่คำอธิบายกำกับ เช่น index complete" 
 เพื่ออธิบายการลงงานของตัวเองว่าอัพอะไรลงไป
-5.อัพโหลดขึ้น github ด้วยคำสั่ง git push origin ยศตัวเอง
-เช่นของข้าวปุ้น git push origin master
+5.อัพโหลดขึ้น github ด้วยคำสั่ง git push origin dev
+(ข้าวปุ้น git push origin master)
 
